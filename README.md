@@ -11,6 +11,7 @@ En este curso aprendí:
 
 Creado por el increíble Platzi Team 
 Incluye ejemplos en windows, linux y Mac
+Disponible para todas las edades 
 
 [========]
 Como prueba para colocar un enlace le pasaré sus credenciales a mi mamá del programa [Jóvenes construyendo el futuro](http://https://jovenesconstruyendoelfuturo.stps.gob.mx/ "Jóvenes construyendo el futuro")
