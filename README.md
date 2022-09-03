@@ -10,6 +10,7 @@ En este curso aprendí:
 * Las personalidades múltiples de Freddy
 
 Creado por el increíble Platzi Team 
+Incluye ejemplos en windows, linux y Mac
 
 [========]
 Como prueba para colocar un enlace le pasaré sus credenciales a mi mamá del programa [Jóvenes construyendo el futuro](http://https://jovenesconstruyendoelfuturo.stps.gob.mx/ "Jóvenes construyendo el futuro")
