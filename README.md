@@ -9,5 +9,7 @@ En este curso aprendí:
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 
+Creado por el increíble Platzi Team 
+
 [========]
 Como prueba para colocar un enlace le pasaré sus credenciales a mi mamá del programa [Jóvenes construyendo el futuro](http://https://jovenesconstruyendoelfuturo.stps.gob.mx/ "Jóvenes construyendo el futuro")
